@@ -1,1 +1,1 @@
-# Projet2 Solo JavaScripts = un simple application pour un garage automobile.
+# Projet2 Solo JavaScripts = une simple application pour un garage automobile.
